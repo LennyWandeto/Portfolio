@@ -10,7 +10,7 @@ html {
 }
 
 .bg-image {
-  background-image: url("/istockphoto-1404630183-612x612.jpg");
+  background-image: url("./istockphoto-1404630183-612x612.jpg");
   filter: blur(10px);
   -webkit-filter: blur(10px);
   height: 100%;
@@ -37,7 +37,8 @@ h1 {
   font-size: 75px;
   color: tomato;
   text-align: center;
-  margin-bottom: 2px
+  margin-bottom: 2px;
+  margin-top: 2px;
 }
 
 h2 {
